@@ -1,5 +1,5 @@
-Ashley’s Image Manipulation and Filtering
-
+**Ashley’s Image Manipulation and Filtering
+**
 This Python project demonstrates how to perform basic image processing tasks such as grayscale conversion, blurring, edge detection, flipping, and rotating using NumPy, PIL, and SciPy.
 
 Features
