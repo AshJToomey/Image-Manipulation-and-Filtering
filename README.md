@@ -1,7 +1,3 @@
-Here’s a well-structured and beginner-friendly README.md file for Ashley’s Image Manipulation and Filtering project:
-
-⸻
-
 Ashley’s Image Manipulation and Filtering
 
 This Python project demonstrates how to perform basic image processing tasks such as grayscale conversion, blurring, edge detection, flipping, and rotating using NumPy, PIL, and SciPy.
@@ -14,13 +10,6 @@ Features
 	•	Flip the image horizontally
 	•	Rotate the image 90° clockwise
 	•	Display all transformations using matplotlib
-
-Sample Transformations
-
-Original	Grayscale	Blur	Edge Detection
-			
-
-(Add sample images to the docs/ folder for preview if you like)
 
 Requirements
 	•	Python 3.x
@@ -65,7 +54,3 @@ You can adjust:
 License
 
 MIT License
-
-⸻
-
-Let me know if you’d like to add image saving functionality or build a simple GUI with Tkinter!
